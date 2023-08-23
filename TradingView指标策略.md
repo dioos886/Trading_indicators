@@ -13,3 +13,9 @@ UT Bot指标参数值设定，UT Bot的Key Vaule. 'This changes the sensitivity'
 # 指标展示
 如果NSDT HAMA Candles指标未达到个人标准可直接更换图标时间，下图为短线交易（15分）
 ![image](https://github.com/dioos886/Trading_indicators/assets/31064101/77c2ee6e-1ce8-40ff-8b0b-b1a4084a3572)
+
+# 买入交易
+![image](https://github.com/dioos886/Trading_indicators/assets/31064101/827ab095-ef22-409f-9c05-c64e193550c8)
+
+# 空头交易
+![image](https://github.com/dioos886/Trading_indicators/assets/31064101/8c3cab07-3342-4b46-ad85-4c4fbbf7857f)
